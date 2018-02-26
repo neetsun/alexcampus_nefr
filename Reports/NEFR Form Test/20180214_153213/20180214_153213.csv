@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+NEFR Form Test,Firefox 58.0,Testing of Alex Campus NEFR forms,2018-02-14 15:32:16,2018-02-14 15:32:43,26.728s,PASSED
+,,,,,,
+Test Cases/MY DETAILS TAB TEST,Firefox 58.0,,2018-02-14 15:32:17,2018-02-14 15:32:42,25.470s,PASSED
+openBrowser,Firefox 58.0,,2018-02-14 15:32:18,2018-02-14 15:32:27,9.180s,PASSED
+maximizeWindow,Firefox 58.0,,2018-02-14 15:32:27,2018-02-14 15:32:31,3.792s,PASSED
+navigateToUrl,Firefox 58.0,,2018-02-14 15:32:31,2018-02-14 15:32:32,0.642s,PASSED
+waitForPageLoad,Firefox 58.0,,2018-02-14 15:32:32,2018-02-14 15:32:32,0.384s,PASSED
+waitForElementPresent,Firefox 58.0,,2018-02-14 15:32:32,2018-02-14 15:32:32,0.208s,PASSED
+setText,Firefox 58.0,,2018-02-14 15:32:32,2018-02-14 15:32:33,0.798s,PASSED
+click,Firefox 58.0,,2018-02-14 15:32:33,2018-02-14 15:32:35,2.223s,PASSED
+waitForPageLoad,Firefox 58.0,,2018-02-14 15:32:35,2018-02-14 15:32:35,0.074s,PASSED
+verifyElementPresent,Firefox 58.0,,2018-02-14 15:32:35,2018-02-14 15:32:35,0.112s,PASSED
+delay,Firefox 58.0,,2018-02-14 15:32:35,2018-02-14 15:32:38,2.061s,PASSED
+"Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Test Link Page_IFrame/input_j_username), 0))",Firefox 58.0,,2018-02-14 15:32:38,2018-02-14 15:32:41,3.824s,PASSED
+Statement - applicantAdd = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Applicant Tab/Main Residential Address Field )),Firefox 58.0,,2018-02-14 15:32:41,2018-02-14 15:32:42,0.205s,PASSED
+click,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.416s,PASSED
+verifyElementText,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+verifyElementAttributeValue,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+verifyElementText,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+verifyElementAttributeValue,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+verifyElementText,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+verifyElementPresent,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+verifyElementText,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+verifyElementAttributeValue,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+verifyElementText,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+"Statement - If (O_CONSTYP == ""CN"")",Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.403s,PASSED
+scrollToElement,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.000s,NOT_RUN
+verifyElementPresent,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+click,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+delay,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.000s,NOT_RUN
+verifyElementPresent,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.000s,NOT_RUN
+click,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN
+closeBrowser,Firefox 58.0,,2018-02-14 15:32:42,2018-02-14 15:32:42,0.001s,NOT_RUN

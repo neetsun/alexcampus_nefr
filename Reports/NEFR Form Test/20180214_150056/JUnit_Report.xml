@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="NEFR Form Test" time="36" tests="0" failures="1" errors="0">
+   <testsuite name="NEFR Form Test" tests="0" failures="1" errors="0" time="36" timestamp="2018-02-14 15:00:59" hostname="angelwong - 192.168.214.1" id="Test Suites/NEFR Form Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/angelwong/Documents/Documents/EFORMS/06 Test Tool/ALEX NEFR TESTING/Reports/NEFR Form Test/20180214_150056"/>
+         <property name="logFiles" value="/Users/angelwong/Documents/Documents/EFORMS/06 Test Tool/ALEX NEFR TESTING/Reports/NEFR Form Test/20180214_150056/execution0.log"/>
+         <property name="attachments" value="/Users/angelwong/Documents/Documents/EFORMS/06 Test Tool/ALEX NEFR TESTING/Reports/NEFR Form Test/20180214_150056/1518591694584.png, /Users/angelwong/Documents/Documents/EFORMS/06 Test Tool/ALEX NEFR TESTING/Reports/NEFR Form Test/20180214_150056/1518591695581.png"/>
+         <property name="hostName" value="angelwong - 192.168.214.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.3.0.1"/>
+         <property name="browser" value="Firefox 58.0"/>
+         <property name="hostAddress" value="192.168.214.1"/>
+         <property name="sessionId" value="43e2dd3d-7f14-8b4d-b414-f8e39d17ca96"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/MY DETAILS TAB TEST" classname="Test Cases/MY DETAILS TAB TEST" status="FAILED">
+         <failure type="FAILED" message="Unable to verify if object doesn't have attribute (Root cause: java.lang.IllegalArgumentException: Object is null)"/>
+         <system-out><![CDATA[2018-02-14 15:01:00 - [TEST_CASE][FAILED] - Test Cases/MY DETAILS TAB TEST: Test Cases/MY DETAILS TAB TEST FAILED because (of) Unable to verify if object doesn't have attribute (Root cause: java.lang.IllegalArgumentException: Object is null)
+
+2018-02-14 15:01:01 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-02-14 15:01:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-02-14 15:01:10 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-02-14 15:01:13 - [MESSAGE][PASSED] - Current window maximized
+
+2018-02-14 15:01:13 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://sit104.sit.startinpoint.com:9080/FEBWrapperApp/' successfully
+
+2018-02-14 15:01:14 - [MESSAGE][PASSED] - Navigate to 'http://sit104.sit.startinpoint.com:9080/FEBWrapperApp/' successfully
+
+2018-02-14 15:01:14 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-02-14 15:01:14 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-02-14 15:01:14 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Test Link Page_IFrame/testlink_inputField' is present
+
+2018-02-14 15:01:15 - [MESSAGE][PASSED] - Object 'Object Repository/Test Link Page_IFrame/testlink_inputField' is present
+
+2018-02-14 15:01:15 - [TEST_STEP][PASSED] - setText: Text 'DOCTY_GRP=A|NNAME=MR. AMIR BIN KASIRAN|VNAME=LASTIE/ NAME|O_CONSTYP=CI|UNNAME=REDDY PALAGATI NISHANTH|USERID=ZIBMPALAGATI|ADDR=BLK 108, %2305-301, TAMPINES STREET 11, Singapore 521108|EMAIL=qsm@ttsh.com.sg|EXTNR=S1205651F|TELNO=1800-2529913|IDNO=24260517766963|FTEMPL=ISH_COMNCLEN1.101|EDIT=Y|EINRI=ALEX|FDESC=CONSENT FORM (ENGLISH)|FTYPE=NEFRCONS|FOLDER=0000000919|LTOKEN=4DF80CAB1C0D7B0CCC89DD80EC8465|PATNR=0004838179|PAT_LVL=Y|STATUS=01|TCODE=NV2001|UNAMEIND=Y|VOID=Y|TEST_FLAG=1
+' is set on object 'Object Repository/Test Link Page_IFrame/testlink_inputField'
+
+2018-02-14 15:01:16 - [MESSAGE][PASSED] - Text 'DOCTY_GRP=A|NNAME=MR. AMIR BIN KASIRAN|VNAME=LASTIE/ NAME|O_CONSTYP=CI|UNNAME=REDDY PALAGATI NISHANTH|USERID=ZIBMPALAGATI|ADDR=BLK 108, %2305-301, TAMPINES STREET 11, Singapore 521108|EMAIL=qsm@ttsh.com.sg|EXTNR=S1205651F|TELNO=1800-2529913|IDNO=24260517766963|FTEMPL=ISH_COMNCLEN1.101|EDIT=Y|EINRI=ALEX|FDESC=CONSENT FORM (ENGLISH)|FTYPE=NEFRCONS|FOLDER=0000000919|LTOKEN=4DF80CAB1C0D7B0CCC89DD80EC8465|PATNR=0004838179|PAT_LVL=Y|STATUS=01|TCODE=NV2001|UNAMEIND=Y|VOID=Y|TEST_FLAG=1
+' is set on object 'Object Repository/Test Link Page_IFrame/testlink_inputField'
+
+2018-02-14 15:01:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Test Link Page_IFrame/testlink_btn' is clicked on
+
+2018-02-14 15:01:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Test Link Page_IFrame/testlink_btn' is clicked on
+
+2018-02-14 15:01:19 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-02-14 15:01:19 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-02-14 15:01:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Test Link Page_IFrame/iframeid' is present
+
+2018-02-14 15:01:20 - [MESSAGE][PASSED] - Object 'Object Repository/Test Link Page_IFrame/iframeid' is present
+
+2018-02-14 15:01:20 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-02-14 15:01:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-02-14 15:01:22 - [TEST_STEP][PASSED] - Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Test Link Page_IFrame/input_j_username), 0)): Object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is present
+
+2018-02-14 15:01:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:22 - [MESSAGE][PASSED] - Object 'Object Repository/Test Link Page_IFrame/input_j_username' is present
+
+2018-02-14 15:01:22 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Test Link Page_IFrame/form_ISH_COMNCLEN1.101' is present
+
+2018-02-14 15:01:22 - [MESSAGE][PASSED] - Object 'Object Repository/Test Link Page_IFrame/form_ISH_COMNCLEN1.101' is present
+
+2018-02-14 15:01:22 - [TEST_STEP][PASSED] - setText: Text 'wasadmin' is set on object 'Object Repository/Test Link Page_IFrame/input_j_username'
+
+2018-02-14 15:01:22 - [MESSAGE][PASSED] - Text 'wasadmin' is set on object 'Object Repository/Test Link Page_IFrame/input_j_username'
+
+2018-02-14 15:01:22 - [TEST_STEP][PASSED] - setText: Text 'P@ger123' is set on object 'Object Repository/Test Link Page_IFrame/input_j_password'
+
+2018-02-14 15:01:23 - [MESSAGE][PASSED] - Text 'P@ger123' is set on object 'Object Repository/Test Link Page_IFrame/input_j_password'
+
+2018-02-14 15:01:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Test Link Page_IFrame/input_lotusBtn' is clicked on
+
+2018-02-14 15:01:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Test Link Page_IFrame/input_lotusBtn' is clicked on
+
+2018-02-14 15:01:25 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is present
+
+2018-02-14 15:01:26 - [MESSAGE][PASSED] - Object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is present
+
+2018-02-14 15:01:26 - [TEST_STEP][PASSED] - Statement - applicantAdd = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Applicant Tab/Main Residential Address Field )): Text of object 'Object Repository/Applicant Tab/Main Residential Address Field ' is: ''
+
+2018-02-14 15:01:26 - [MESSAGE][PASSED] - Text of object 'Object Repository/Applicant Tab/Main Residential Address Field ' is: ''
+
+2018-02-14 15:01:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/My Details Tab/My Details tab btn' is clicked on
+
+2018-02-14 15:01:27 - [MESSAGE][PASSED] - Object: 'Object Repository/My Details Tab/My Details tab btn' is clicked on
+
+2018-02-14 15:01:27 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/My Name label' are matched.
+
+2018-02-14 15:01:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/My Name label' are matched.
+
+2018-02-14 15:01:27 - [TEST_STEP][PASSED] - verifyElementAttributeValue: Object 'Object Repository/My Details Tab/My Name Field' has attribute 'value' with value ''
+
+2018-02-14 15:01:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:27 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/My Name Field' has attribute 'value' with value ''
+
+2018-02-14 15:01:27 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC label' are matched.
+
+2018-02-14 15:01:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC label' are matched.
+
+2018-02-14 15:01:27 - [TEST_STEP][PASSED] - verifyElementAttributeValue: Object 'Object Repository/My Details Tab/My NRIC Field' has attribute 'value' with value ''
+
+2018-02-14 15:01:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:28 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/My NRIC Field' has attribute 'value' with value ''
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/Passport checkbox label' are matched.
+
+2018-02-14 15:01:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/Passport checkbox label' are matched.
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/My Details Tab/Passport checkbox' is present
+
+2018-02-14 15:01:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:28 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/Passport checkbox' is present
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/Residential Address label' are matched.
+
+2018-02-14 15:01:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/Residential Address label' are matched.
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - verifyElementAttributeValue: Object 'Object Repository/My Details Tab/Residential Address Field' has attribute 'value' with value ''
+
+2018-02-14 15:01:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:28 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/Residential Address Field' has attribute 'value' with value ''
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/Same address checkbox label' are matched.
+
+2018-02-14 15:01:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/Same address checkbox label' are matched.
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - Statement - If (O_CONSTYP == "CN"): null
+
+2018-02-14 15:01:28 - [TEST_STEP][FAILED] - Statement - Else If (O_CONSTYP == "CI" || O_CONSTYP == "CM"): Object 'Object Repository/My Details Tab/I_DONEE checkbox' does not have attribute 'disabled'
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - verifyElementVisibleInViewport: Object 'Object Repository/My Details Tab/My Name Field Invalid Msg ' is present and visible in viewport
+
+2018-02-14 15:01:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:28 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/My Name Field Invalid Msg ' is present and visible in viewport
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/My Name Field Invalid Msg ' are matched.
+
+2018-02-14 15:01:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/My Name Field Invalid Msg ' are matched.
+
+2018-02-14 15:01:28 - [TEST_STEP][PASSED] - setText: Text 'Phua Sing Tat' is set on object 'Object Repository/My Details Tab/My Name Field'
+
+2018-02-14 15:01:29 - [MESSAGE][PASSED] - Text 'Phua Sing Tat' is set on object 'Object Repository/My Details Tab/My Name Field'
+
+2018-02-14 15:01:29 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/My Details Tab/My Name label' is clicked on
+
+2018-02-14 15:01:29 - [MESSAGE][PASSED] - Object: 'Object Repository/My Details Tab/My Name label' is clicked on
+
+2018-02-14 15:01:29 - [TEST_STEP][PASSED] - verifyElementNotVisibleInViewport: Object 'Object Repository/My Details Tab/My Name Field Invalid Msg ' is present and NOT visible in viewport
+
+2018-02-14 15:01:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:29 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/My Name Field Invalid Msg ' is present and NOT visible in viewport
+
+2018-02-14 15:01:29 - [TEST_STEP][PASSED] - verifyElementVisibleInViewport: Object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' is present and visible in viewport
+
+2018-02-14 15:01:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:30 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' is present and visible in viewport
+
+2018-02-14 15:01:30 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' are matched.
+
+2018-02-14 15:01:30 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' are matched.
+
+2018-02-14 15:01:30 - [TEST_STEP][PASSED] - setText: Text 'S1234567G' is set on object 'Object Repository/My Details Tab/My NRIC Field'
+
+2018-02-14 15:01:30 - [MESSAGE][PASSED] - Text 'S1234567G' is set on object 'Object Repository/My Details Tab/My NRIC Field'
+
+2018-02-14 15:01:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/My Details Tab/My Name label' is clicked on
+
+2018-02-14 15:01:30 - [MESSAGE][PASSED] - Object: 'Object Repository/My Details Tab/My Name label' is clicked on
+
+2018-02-14 15:01:30 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' are matched.
+
+2018-02-14 15:01:30 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' are matched.
+
+2018-02-14 15:01:30 - [TEST_STEP][PASSED] - check: Object 'Object Repository/My Details Tab/Passport checkbox' is checked
+
+2018-02-14 15:01:31 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/Passport checkbox' is checked
+
+2018-02-14 15:01:31 - [TEST_STEP][PASSED] - verifyElementNotVisibleInViewport: Object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' is present and NOT visible in viewport
+
+2018-02-14 15:01:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:31 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' is present and NOT visible in viewport
+
+2018-02-14 15:01:31 - [TEST_STEP][PASSED] - uncheck: Object 'Object Repository/My Details Tab/Passport checkbox' is un-checked
+
+2018-02-14 15:01:31 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/Passport checkbox' is un-checked
+
+2018-02-14 15:01:31 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' are matched.
+
+2018-02-14 15:01:31 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' are matched.
+
+2018-02-14 15:01:31 - [TEST_STEP][PASSED] - clearText: Text of object 'Object Repository/My Details Tab/My NRIC Field' is cleared
+
+2018-02-14 15:01:32 - [MESSAGE][PASSED] - Text of object 'Object Repository/My Details Tab/My NRIC Field' is cleared
+
+2018-02-14 15:01:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/My Details Tab/My Name label' is clicked on
+
+2018-02-14 15:01:32 - [MESSAGE][PASSED] - Object: 'Object Repository/My Details Tab/My Name label' is clicked on
+
+2018-02-14 15:01:32 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' are matched.
+
+2018-02-14 15:01:32 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' are matched.
+
+2018-02-14 15:01:32 - [TEST_STEP][PASSED] - setText: Text 'T0648142B' is set on object 'Object Repository/My Details Tab/My NRIC Field'
+
+2018-02-14 15:01:32 - [MESSAGE][PASSED] - Text 'T0648142B' is set on object 'Object Repository/My Details Tab/My NRIC Field'
+
+2018-02-14 15:01:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/My Details Tab/My Name label' is clicked on
+
+2018-02-14 15:01:33 - [MESSAGE][PASSED] - Object: 'Object Repository/My Details Tab/My Name label' is clicked on
+
+2018-02-14 15:01:33 - [TEST_STEP][PASSED] - verifyElementNotVisibleInViewport: Object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' is present and NOT visible in viewport
+
+2018-02-14 15:01:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:33 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/My NRIC Field Invalid Msg' is present and NOT visible in viewport
+
+2018-02-14 15:01:33 - [TEST_STEP][PASSED] - setText: Text 'Blk 444 Chin Chee Ave #09-189' is set on object 'Object Repository/My Details Tab/Residential Address Field'
+
+2018-02-14 15:01:33 - [MESSAGE][PASSED] - Text 'Blk 444 Chin Chee Ave #09-189' is set on object 'Object Repository/My Details Tab/Residential Address Field'
+
+2018-02-14 15:01:33 - [TEST_STEP][PASSED] - check: Object 'Object Repository/My Details Tab/Same address checkbox' is checked
+
+2018-02-14 15:01:34 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/Same address checkbox' is checked
+
+2018-02-14 15:01:34 - [TEST_STEP][PASSED] - Statement - myDetailsAdd = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(My Details Tab/Residential Address Field)): Text of object 'Object Repository/My Details Tab/Residential Address Field' is: ''
+
+2018-02-14 15:01:34 - [MESSAGE][PASSED] - Text of object 'Object Repository/My Details Tab/Residential Address Field' is: ''
+
+2018-02-14 15:01:34 - [TEST_STEP][PASSED] - verifyMatch: Actual text '' and expected text '' are matched 
+
+2018-02-14 15:01:34 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched 
+
+2018-02-14 15:01:34 - [TEST_STEP][PASSED] - uncheck: Object 'Object Repository/My Details Tab/Same address checkbox' is un-checked
+
+2018-02-14 15:01:34 - [MESSAGE][PASSED] - Object 'Object Repository/My Details Tab/Same address checkbox' is un-checked
+
+2018-02-14 15:01:34 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/My Details Tab/Residential Address Field' are matched.
+
+2018-02-14 15:01:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/My Details Tab/Residential Address Field' are matched.
+
+2018-02-14 15:01:34 - [TEST_STEP][PASSED] - Statement - If (O_CONSTYP == "CM"): null
+
+2018-02-14 15:01:34 - [TEST_STEP][FAILED] - Statement - Else: Object 'Object Repository/My Details Tab/I_DONEE checkbox' does not have attribute 'disabled'
+
+2018-02-14 15:01:34 - [TEST_STEP][FAILED] - verifyElementNotHasAttribute: Unable to verify if object doesn't have attribute (Root cause: java.lang.IllegalArgumentException: Object is null)
+
+2018-02-14 15:01:34 - [MESSAGE][WARNING] - Test object with id 'Object Repository/I_GUARD checkbox' does not exist
+
+2018-02-14 15:01:34 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2018-02-14 15:01:35 - [MESSAGE][FAILED] - Unable to verify if object doesn't have attribute (Root cause: java.lang.IllegalArgumentException: Object is null)
+[[ATTACHMENT|/Users/angelwong/Documents/Documents/EFORMS/06 Test Tool/ALEX NEFR TESTING/Reports/NEFR Form Test/20180214_150056/1518591694584.png]]
+
+2018-02-14 15:01:35 - [TEST_STEP][FAILED] - verifyElementHasAttribute: Object 'Object Repository/My Details Tab/I_DONEE checkbox' does not have attribute 'disabled'
+
+2018-02-14 15:01:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-14 15:01:36 - [MESSAGE][FAILED] - Object 'Object Repository/My Details Tab/I_DONEE checkbox' does not have attribute 'disabled'
+[[ATTACHMENT|/Users/angelwong/Documents/Documents/EFORMS/06 Test Tool/ALEX NEFR TESTING/Reports/NEFR Form Test/20180214_150056/1518591695581.png]]
+
+2018-02-14 15:01:36 - [TEST_STEP][NOT_RUN] - scrollToElement: NOT_RUN: scrollToElement
+
+2018-02-14 15:01:36 - [MESSAGE][NOT_RUN] - NOT_RUN: scrollToElement
+
+2018-02-14 15:01:36 - [TEST_STEP][NOT_RUN] - verifyElementPresent: NOT_RUN: verifyElementPresent
+
+2018-02-14 15:01:36 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyElementPresent
+
+2018-02-14 15:01:36 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-02-14 15:01:36 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-02-14 15:01:36 - [TEST_STEP][NOT_RUN] - delay: NOT_RUN: delay
+
+2018-02-14 15:01:36 - [MESSAGE][NOT_RUN] - NOT_RUN: delay
+
+2018-02-14 15:01:36 - [TEST_STEP][NOT_RUN] - verifyElementPresent: NOT_RUN: verifyElementPresent
+
+2018-02-14 15:01:36 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyElementPresent
+
+2018-02-14 15:01:36 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-02-14 15:01:36 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-02-14 15:01:36 - [TEST_STEP][NOT_RUN] - closeBrowser: NOT_RUN: closeBrowser
+
+2018-02-14 15:01:36 - [MESSAGE][NOT_RUN] - NOT_RUN: closeBrowser]]></system-out>
+         <system-err><![CDATA[2018-02-14 15:01:00 - [TEST_CASE][FAILED] - Test Cases/MY DETAILS TAB TEST: Test Cases/MY DETAILS TAB TEST FAILED because (of) Unable to verify if object doesn't have attribute (Root cause: java.lang.IllegalArgumentException: Object is null)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-02-14 15:00:59 - [TEST_SUITE][FAILED] - NEFR Form Test: Test Cases/MY DETAILS TAB TEST FAILED because (of) Unable to verify if object doesn't have attribute (Root cause: java.lang.IllegalArgumentException: Object is null)]]></system-out>
+      <system-err><![CDATA[2018-02-14 15:00:59 - [TEST_SUITE][FAILED] - NEFR Form Test: Test Cases/MY DETAILS TAB TEST FAILED because (of) Unable to verify if object doesn't have attribute (Root cause: java.lang.IllegalArgumentException: Object is null)]]></system-err>
+   </testsuite>
+</testsuites>

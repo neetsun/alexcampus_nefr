@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MY DETAILS TAB TEST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64fea5ef-d836-4591-a788-2354f8aa773b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a131fd94-e01a-4aad-9ccd-19e6a82bea38</id>
+      <masked>false</masked>
+      <name>testlink</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dae4c5bc-a2c2-46d8-bc36-af4d4125b741</id>
+      <masked>false</masked>
+      <name>O_CONSTYP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dec85889-9b1b-4885-bfae-cfabc09e1980</id>
+      <masked>false</masked>
+      <name>applicantAdd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ffc44bc-71de-43bb-acf7-0ec2895659ea</id>
+      <masked>false</masked>
+      <name>myDetailsAdd</name>
+   </variable>
+</TestCaseEntity>

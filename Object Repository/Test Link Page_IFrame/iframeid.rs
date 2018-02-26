@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframeid</name>
+   <tag></tag>
+   <elementGuidId>3bd537fd-98ab-403a-825d-6e6cb0d193f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@id = 'iframe_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iframe_id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://sit104.sit.startinpoint.com:9080/forms/landing/org/app/969d9528-d51e-4685-850b-2aa1167e4ca3/launch/index.html?form=F_Form1&amp;IDNO=24260517766963&amp;DOCTY_GRP=D&amp;NNAME=MR. AMIR BIN KASIRAN&amp;FTEMPL=ISH_COMNCLEN1.101&amp;EDIT=Y&amp;EINRI=ALEX&amp;FDESC=CONSENT FORM (ENGLISH)&amp;FTYPE=NEFRCONS&amp;FOLDER=0000000919&amp;LTOKEN=4DF80CAB1C0D7B0CCC89DD80EC8465&amp;O_CONSTYP=CN&amp;PASSTY=P&amp;PATNR=0004838179&amp;PAT_LVL=Y&amp;STATUS=01&amp;TCODE=NV2001&amp;UNAMEIND=Y&amp;UNNAME=REDDY PALAGATI NISHANTH&amp;USERID=ZIBMPALAGATI&amp;VOID=Y&amp;ADDR=BLK 108, %2305-301, TAMPINES STREET 11, Singapore 521108&amp;EMAIL=qsm@ttsh.com.sg&amp;EXTNR=S1205651F&amp;TELNO=1800-2529913&amp;TEST_FLAG=1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onload</name>
+      <type>Main</type>
+      <value>logInToFEB();</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrolling</name>
+      <type>Main</type>
+      <value>no</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iframe_id&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

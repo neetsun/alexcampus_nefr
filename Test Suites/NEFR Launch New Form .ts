@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Testing of Alex Campus NEFR forms</description>
+   <name>NEFR Launch New Form </name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-02-26T17:15:11</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>12c4a359-2eaf-4666-93d0-1d53abb8cf88</testSuiteGuid>
+   <testCaseLink>
+      <guid>568234cf-c43d-4f99-bf84-9b4a996f32ac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/APPLICANT NAME TEST</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ae1cb224-f872-46fe-a1d4-1ff046465fb6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/APPLICANT NAME</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>ae1cb224-f872-46fe-a1d4-1ff046465fb6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DATA</value>
+         <variableId>e96ef786-bc08-4b8f-823e-c883c1ee5345</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ae1cb224-f872-46fe-a1d4-1ff046465fb6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NAME</value>
+         <variableId>b5f1d208-fe15-41df-a934-fd6741080bea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0f615fa0-374e-480b-8a8c-fc24556aa9a8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/APPLICANT CITIZENSHIP TEST </testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0dda4973-eda2-430d-ba1a-18b72664b991</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/APPLICANT CITIZENSHIP</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>0dda4973-eda2-430d-ba1a-18b72664b991</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DATA</value>
+         <variableId>cd2de7a7-419b-4c0f-8df0-783de4ddafd7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0dda4973-eda2-430d-ba1a-18b72664b991</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DOCTY_GRP</value>
+         <variableId>a71525d5-5bd4-42e6-b50e-37e829e30a43</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fdb2d87d-b2d7-4c4f-a92b-ad9aed7f1da4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MY DETAILS TAB TEST</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3583e81e-9eae-43b2-b7b4-65787750a761</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/MY DETAILS - O_CONSTYP</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>3583e81e-9eae-43b2-b7b4-65787750a761</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DATA</value>
+         <variableId>a131fd94-e01a-4aad-9ccd-19e6a82bea38</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3583e81e-9eae-43b2-b7b4-65787750a761</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>O_CONSTYP</value>
+         <variableId>dae4c5bc-a2c2-46d8-bc36-af4d4125b741</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dec85889-9b1b-4885-bfae-cfabc09e1980</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8ffc44bc-71de-43bb-acf7-0ec2895659ea</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TEST DIRECT FORM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fa153ea-08bf-4569-885b-08dd8c2c6908</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24ae1500-3970-4ad3-b07d-ac991b828cd1</id>
+      <masked>false</masked>
+      <name>testlink</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f86bba9-eeaa-4d3f-aa77-5622a1b8d25f</id>
+      <masked>false</masked>
+      <name>nameValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>508f241b-5502-46c4-9949-f87777dd4947</id>
+      <masked>false</masked>
+      <name>attributeValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1d36b2e-c99b-4b76-8453-df0e1ee224d0</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e7d4903-0a6c-4be3-9ff4-a1d791a9449a</id>
+      <masked>false</masked>
+      <name>mainAdd</name>
+   </variable>
+</TestCaseEntity>

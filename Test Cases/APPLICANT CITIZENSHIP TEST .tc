@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APPLICANT CITIZENSHIP TEST </name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17de501a-a268-4426-ad84-306c08e55b27</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd2de7a7-419b-4c0f-8df0-783de4ddafd7</id>
+      <masked>false</masked>
+      <name>testlink</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a71525d5-5bd4-42e6-b50e-37e829e30a43</id>
+      <masked>false</masked>
+      <name>docty_grp</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APPLICANT NAME TEST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2be6a53-7fd3-4b46-895e-891a1db2dcaf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e96ef786-bc08-4b8f-823e-c883c1ee5345</id>
+      <masked>false</masked>
+      <name>testlink</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5f1d208-fe15-41df-a934-fd6741080bea</id>
+      <masked>false</masked>
+      <name>nameValue</name>
+   </variable>
+</TestCaseEntity>

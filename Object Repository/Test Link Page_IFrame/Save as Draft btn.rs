@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save as Draft btn</name>
+   <tag></tag>
+   <elementGuidId>fedea296-a9f5-4491-b014-f40c8914dca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;freedom_widget_solution_environment_ActionButton_0&quot;)/span[count(. | //*[(text() = '●Save as Draft' or . = '●Save as Draft') and @ref_element = 'Object Repository/Test Link Page_IFrame/iframeid']) = count(//*[(text() = '●Save as Draft' or . = '●Save as Draft') and @ref_element = 'Object Repository/Test Link Page_IFrame/iframeid'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dijit dijitReset dijitInline lfFormActionBtn lfFormActionSubmitBtn dijitButton lfFormBtn lotusFormButton  dijitButtonHover lfFormBtnHover lotusFormButtonHover Hover dijitHover</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dojo-attach-event</name>
+      <type>Main</type>
+      <value>onclick:__lfFormBtnOnClick</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>widgetid</name>
+      <type>Main</type>
+      <value>cd646c86-7cc2-4585-82e8-92e3d9e66cdc</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>●Save as Draft</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;freedom_widget_solution_environment_ActionButton_0&quot;)/span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Test Link Page_IFrame/iframeid</value>
+   </webElementProperties>
+</WebElementEntity>

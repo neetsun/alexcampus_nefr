@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+NEFR Launch New Form ,Firefox 58.0,Testing of Alex Campus NEFR forms,2018-02-27 09:26:21,2018-02-27 09:27:00,38.593s,PASSED
+,,,,,,
+Test Cases/APPLICANT NAME TEST,Firefox 58.0,,2018-02-27 09:26:22,2018-02-27 09:26:59,37.611s,PASSED
+openBrowser,Firefox 58.0,,2018-02-27 09:26:23,2018-02-27 09:26:33,10.171s,PASSED
+maximizeWindow,Firefox 58.0,,2018-02-27 09:26:33,2018-02-27 09:26:36,3.626s,PASSED
+navigateToUrl,Firefox 58.0,,2018-02-27 09:26:36,2018-02-27 09:26:37,1.055s,PASSED
+waitForPageLoad,Firefox 58.0,,2018-02-27 09:26:37,2018-02-27 09:26:38,0.391s,PASSED
+waitForElementPresent,Firefox 58.0,,2018-02-27 09:26:38,2018-02-27 09:26:38,0.359s,PASSED
+setText,Firefox 58.0,,2018-02-27 09:26:38,2018-02-27 09:26:39,1.015s,PASSED
+click,Firefox 58.0,,2018-02-27 09:26:39,2018-02-27 09:26:49,9.774s,PASSED
+waitForPageLoad,Firefox 58.0,,2018-02-27 09:26:49,2018-02-27 09:26:49,0.053s,PASSED
+verifyElementPresent,Firefox 58.0,,2018-02-27 09:26:49,2018-02-27 09:26:49,0.278s,PASSED
+delay,Firefox 58.0,,2018-02-27 09:26:49,2018-02-27 09:26:51,2.037s,PASSED
+verifyElementPresent,Firefox 58.0,,2018-02-27 09:26:51,2018-02-27 09:26:52,0.369s,PASSED
+"Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Applicant Tab/td_Applicants Name_div_label), 0)))",Firefox 58.0,,2018-02-27 09:26:52,2018-02-27 09:26:52,0.128s,PASSED
+getText,Firefox 58.0,,2018-02-27 09:26:52,2018-02-27 09:26:52,0.202s,PASSED
+verifyElementText,Firefox 58.0,,2018-02-27 09:26:52,2018-02-27 09:26:52,0.163s,PASSED
+verifyElementPresent,Firefox 58.0,,2018-02-27 09:26:52,2018-02-27 09:26:52,0.079s,PASSED
+getAttribute,Firefox 58.0,,2018-02-27 09:26:52,2018-02-27 09:26:53,0.151s,PASSED
+verifyElementAttributeValue,Firefox 58.0,,2018-02-27 09:26:53,2018-02-27 09:26:53,0.134s,PASSED
+scrollToElement,Firefox 58.0,,2018-02-27 09:26:53,2018-02-27 09:26:53,0.216s,PASSED
+verifyElementPresent,Firefox 58.0,,2018-02-27 09:26:53,2018-02-27 09:26:53,0.115s,PASSED
+click,Firefox 58.0,,2018-02-27 09:26:53,2018-02-27 09:26:53,0.505s,PASSED
+delay,Firefox 58.0,,2018-02-27 09:26:53,2018-02-27 09:26:58,5.008s,PASSED
+verifyElementPresent,Firefox 58.0,,2018-02-27 09:26:58,2018-02-27 09:26:59,0.151s,PASSED
+click,Firefox 58.0,,2018-02-27 09:26:59,2018-02-27 09:26:59,0.471s,PASSED
+closeBrowser,Firefox 58.0,,2018-02-27 09:26:59,2018-02-27 09:26:59,0.370s,PASSED

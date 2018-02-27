@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="NEFR Launch New Form " time="38" tests="1" failures="0" errors="0">
+   <testsuite name="NEFR Launch New Form " tests="1" failures="0" errors="0" time="38" timestamp="2018-02-27 09:26:21" hostname="angelwong - 192.168.1.10" id="Test Suites/NEFR Launch New Form ">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/angelwong/Documents/Documents/EFORMS/06 Test Tool/ALEX NEFR TESTING/Reports/NEFR Launch New Form /20180227_092617"/>
+         <property name="logFiles" value="/Users/angelwong/Documents/Documents/EFORMS/06 Test Tool/ALEX NEFR TESTING/Reports/NEFR Launch New Form /20180227_092617/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="angelwong - 192.168.1.10"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.3.0.1"/>
+         <property name="browser" value="Firefox 58.0"/>
+         <property name="hostAddress" value="192.168.1.10"/>
+         <property name="sessionId" value="1ac2efb6-3d84-354f-b964-318904a790e5"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/APPLICANT NAME TEST" classname="Test Cases/APPLICANT NAME TEST" status="PASSED">
+         <system-out><![CDATA[2018-02-27 09:26:22 - [TEST_CASE][PASSED] - Test Cases/APPLICANT NAME TEST: Test Cases/APPLICANT NAME TEST
+
+2018-02-27 09:26:23 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-02-27 09:26:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-02-27 09:26:33 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-02-27 09:26:36 - [MESSAGE][PASSED] - Current window maximized
+
+2018-02-27 09:26:36 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://sit104.sit.startinpoint.com:9080/FEBWrapperApp/' successfully
+
+2018-02-27 09:26:37 - [MESSAGE][PASSED] - Navigate to 'http://sit104.sit.startinpoint.com:9080/FEBWrapperApp/' successfully
+
+2018-02-27 09:26:37 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-02-27 09:26:38 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-02-27 09:26:38 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Test Link Page_IFrame/testlink_inputField' is present
+
+2018-02-27 09:26:38 - [MESSAGE][PASSED] - Object 'Object Repository/Test Link Page_IFrame/testlink_inputField' is present
+
+2018-02-27 09:26:38 - [TEST_STEP][PASSED] - setText: Text 'DOCTY_GRP=A|NNAME=MR. AMIR BIN KASIRAN|VNAME=LASTIE/ NAME|O_CONSTYP=CM|UNNAME=REDDY PALAGATI NISHANTH|USERID=ZIBMPALAGATI|ADDR=BLK 108, %2305-301, TAMPINES STREET 11, Singapore 521108|EMAIL=qsm@ttsh.com.sg|EXTNR=S1205651F|TELNO=1800-2529913|IDNO=24260517766963|FTEMPL=ISH_COMNNCLEN1.101|EDIT=Y|EINRI=ALEX|FDESC=CONSENT FORM (ENGLISH)|FTYPE=NEFRCONS|FOLDER=0000000919|LTOKEN=4DF80CAB1C0D7B0CCC89DD80EC8465|PATNR=0004838179|PAT_LVL=Y|STATUS=01|TCODE=NV2001|UNAMEIND=Y|VOID=Y|TEST_FLAG=1
+' is set on object 'Object Repository/Test Link Page_IFrame/testlink_inputField'
+
+2018-02-27 09:26:39 - [MESSAGE][PASSED] - Text 'DOCTY_GRP=A|NNAME=MR. AMIR BIN KASIRAN|VNAME=LASTIE/ NAME|O_CONSTYP=CM|UNNAME=REDDY PALAGATI NISHANTH|USERID=ZIBMPALAGATI|ADDR=BLK 108, %2305-301, TAMPINES STREET 11, Singapore 521108|EMAIL=qsm@ttsh.com.sg|EXTNR=S1205651F|TELNO=1800-2529913|IDNO=24260517766963|FTEMPL=ISH_COMNNCLEN1.101|EDIT=Y|EINRI=ALEX|FDESC=CONSENT FORM (ENGLISH)|FTYPE=NEFRCONS|FOLDER=0000000919|LTOKEN=4DF80CAB1C0D7B0CCC89DD80EC8465|PATNR=0004838179|PAT_LVL=Y|STATUS=01|TCODE=NV2001|UNAMEIND=Y|VOID=Y|TEST_FLAG=1
+' is set on object 'Object Repository/Test Link Page_IFrame/testlink_inputField'
+
+2018-02-27 09:26:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Test Link Page_IFrame/testlink_btn' is clicked on
+
+2018-02-27 09:26:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Test Link Page_IFrame/testlink_btn' is clicked on
+
+2018-02-27 09:26:49 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-02-27 09:26:49 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-02-27 09:26:49 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Test Link Page_IFrame/iframeid' is present
+
+2018-02-27 09:26:49 - [MESSAGE][PASSED] - Object 'Object Repository/Test Link Page_IFrame/iframeid' is present
+
+2018-02-27 09:26:49 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-02-27 09:26:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-02-27 09:26:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is present
+
+2018-02-27 09:26:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-27 09:26:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-27 09:26:52 - [MESSAGE][PASSED] - Object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is present
+
+2018-02-27 09:26:52 - [TEST_STEP][PASSED] - Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Applicant Tab/td_Applicants Name_div_label), 0))): Object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is present
+
+2018-02-27 09:26:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-27 09:26:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-27 09:26:52 - [MESSAGE][PASSED] - Object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is present
+
+2018-02-27 09:26:52 - [TEST_STEP][PASSED] - getText: Text of object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is: 'Applicant's Name'
+
+2018-02-27 09:26:52 - [MESSAGE][PASSED] - Text of object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' is: 'Applicant's Name'
+
+2018-02-27 09:26:52 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' are matched.
+
+2018-02-27 09:26:52 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Applicant Tab/td_Applicants Name_div_label' are matched.
+
+2018-02-27 09:26:52 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Applicant Tab/td_Applicants Name_div_inputField' is present
+
+2018-02-27 09:26:52 - [MESSAGE][PASSED] - Object 'Object Repository/Applicant Tab/td_Applicants Name_div_inputField' is present
+
+2018-02-27 09:26:52 - [TEST_STEP][PASSED] - getAttribute: Attribute 'value' of object 'Object Repository/Applicant Tab/td_Applicants Name_div_inputField' is: 'MR. AMIR BIN KASIRAN LASTIE/ NAME'
+
+2018-02-27 09:26:52 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Applicant Tab/td_Applicants Name_div_inputField' is: 'MR. AMIR BIN KASIRAN LASTIE/ NAME'
+
+2018-02-27 09:26:53 - [TEST_STEP][PASSED] - verifyElementAttributeValue: Object 'Object Repository/Applicant Tab/td_Applicants Name_div_inputField' has attribute 'value' with value 'MR. AMIR BIN KASIRAN LASTIE/ NAME'
+
+2018-02-27 09:26:53 - [MESSAGE][PASSED] - Object 'Object Repository/Applicant Tab/td_Applicants Name_div_inputField' has attribute 'value' with value 'MR. AMIR BIN KASIRAN LASTIE/ NAME'
+
+2018-02-27 09:26:53 - [TEST_STEP][PASSED] - scrollToElement: Scroll to object 'Object Repository/Test Link Page_IFrame/Save as Draft btn' successfully
+
+2018-02-27 09:26:53 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Test Link Page_IFrame/Save as Draft btn' successfully
+
+2018-02-27 09:26:53 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Test Link Page_IFrame/Save as Draft btn' is present
+
+2018-02-27 09:26:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-27 09:26:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-27 09:26:53 - [MESSAGE][PASSED] - Object 'Object Repository/Test Link Page_IFrame/Save as Draft btn' is present
+
+2018-02-27 09:26:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Test Link Page_IFrame/Save as Draft btn' is clicked on
+
+2018-02-27 09:26:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Test Link Page_IFrame/Save as Draft btn' is clicked on
+
+2018-02-27 09:26:53 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-02-27 09:26:58 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-02-27 09:26:58 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Test Link Page_IFrame/OK btn of Save as draft dialog box' is present
+
+2018-02-27 09:26:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-27 09:26:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-02-27 09:26:59 - [MESSAGE][PASSED] - Object 'Object Repository/Test Link Page_IFrame/OK btn of Save as draft dialog box' is present
+
+2018-02-27 09:26:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Test Link Page_IFrame/OK btn of Save as draft dialog box' is clicked on
+
+2018-02-27 09:26:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Test Link Page_IFrame/OK btn of Save as draft dialog box' is clicked on
+
+2018-02-27 09:26:59 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-02-27 09:26:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-02-27 09:26:21 - [TEST_SUITE][PASSED] - NEFR Launch New Form : Test Cases/APPLICANT NAME TEST]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

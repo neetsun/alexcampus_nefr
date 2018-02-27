@@ -4,7 +4,7 @@
    <name>NEFR Launch New Form </name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-02-26T17:15:11</lastRun>
+   <lastRun>2018-02-27T09:26:17</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -20,7 +20,7 @@
          <combinationType>ONE</combinationType>
          <id>ae1cb224-f872-46fe-a1d4-1ff046465fb6</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
+            <iterationType>RANGE</iterationType>
             <value>1-1</value>
          </iterationEntity>
          <testDataId>Data Files/APPLICANT NAME</testDataId>
@@ -68,7 +68,7 @@
    <testCaseLink>
       <guid>fdb2d87d-b2d7-4c4f-a92b-ad9aed7f1da4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/MY DETAILS TAB TEST</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>

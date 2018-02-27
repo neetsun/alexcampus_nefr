@@ -56,25 +56,17 @@ if (!(WebUI.verifyElementPresent(findTestObject('Applicant Tab/td_Applicants Nam
 
 WebUI.verifyElementText(findTestObject('Applicant Tab/Citizenship/Citizenship Label'), 'Citizenship')
 
-WebUI.verifyElementPresent(findTestObject('Applicant Tab/Citizenship/Citizenship Radiobutton 1 Label - Singapore Citizen'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Applicant Tab/Citizenship/Citizenship Radiobutton 1 Value - Singapore Citizen '), 
     0)
 
 WebUI.verifyElementText(findTestObject('Applicant Tab/Citizenship/Citizenship Radiobutton 1 Label - Singapore Citizen'), 
     'Singapore Citizen')
 
-WebUI.verifyElementPresent(findTestObject('Applicant Tab/Citizenship/Citizenship Radiobutton 2 Label - Permanent Resident'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Applicant Tab/Citizenship/Citizenship Radiobutton 2 Value - Permanent Resident'), 
     0)
 
 WebUI.verifyElementText(findTestObject('Applicant Tab/Citizenship/Citizenship Radiobutton 2 Label - Permanent Resident'), 
     'Permanent Resident')
-
-WebUI.verifyElementPresent(findTestObject('Applicant Tab/Citizenship/Citizenship Radiobutton 3 Label - Foreigner'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Applicant Tab/Citizenship/Citizenship Radiobutton 3 Value - Foreigner'), 0)
 
@@ -145,8 +137,6 @@ WebUI.verifyElementPresent(findTestObject('Test Link Page_IFrame/Save as Draft b
 WebUI.click(findTestObject('Test Link Page_IFrame/Save as Draft btn'))
 
 WebUI.delay(5)
-
-WebUI.verifyElementPresent(findTestObject('Test Link Page_IFrame/OK btn of Save as draft dialog box'), 0)
 
 WebUI.click(findTestObject('Test Link Page_IFrame/OK btn of Save as draft dialog box'))
 
